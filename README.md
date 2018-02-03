@@ -17,4 +17,4 @@ We investigate customer segmentation problem by clustering on ‘Bike Sale’ da
 - [Jupyter Notebook](http://jupyter.org/install)
 - [Python](https://www.python.org/downloads/release/python-364/)
 # Running the Tests
-The code is contained in Jupyter notebook file "Customer_Segmentation_on_Bike_Sales.ipynb". 
+The code is contained in Jupyter notebook file [Customer_Segmentation_on_Bike_Sales.ipynb](https://github.com/tule2236/Customer_Segmentation/blob/master/Customer_Segmentation_on_Bike_Sales.ipynb). 
