@@ -17,4 +17,5 @@ We investigate customer segmentation problem by clustering on ‘Bike Sale’ da
 - [Jupyter Notebook](http://jupyter.org/install)
 - [Python](https://www.python.org/downloads/release/python-364/)
 # Running the Tests
-The code is contained in Jupyter notebook file [Customer_Segmentation_on_Bike_Sales.ipynb](https://github.com/tule2236/Customer_Segmentation/blob/master/Customer_Segmentation_on_Bike_Sales.ipynb). 
+I have designed many experiments to test the performance of 2 popular unsupervised algorithms which are K-means and Expectation Optimization. I also implemented 3 dimensionality reduction algorithms _ Principle Component Analysis (PCA), Independent Component Analysis (ICA), Random Projection (RP) to explore how dimension size effects the performance of clustering. The result of clustering on “Bike Sale” datasets are stored in [ICA_Cluster_Result](https://github.com/tule2236/Customer_Segmentation/tree/master/ICA_Cluster_Result),[PCA_Cluster_Result](https://github.com/tule2236/Customer_Segmentation/tree/master/PCA_Cluster_Result), [k_means_Result](https://github.com/tule2236/Customer_Segmentation/tree/master/k_Means_Result).
+
